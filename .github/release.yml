@@ -1,0 +1,13 @@
+changelog:
+  categories:
+  - title: Major Updates
+    labels: 
+    - SemVer-Major
+    - breaking-change
+  - title: Features
+    labels:
+    - SemVer-Minor
+    - enhancement
+  - title: Other Changes
+    labels:
+    - "*"
