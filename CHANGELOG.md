@@ -1,3 +1,12 @@
+## [1.2.1](https://github.com/qxduddes/release_changelog/compare/v1.2.0...v1.2.1) (2022-05-12)
+
+
+### Bug Fixes
+
+* **readme:** 5th commit ([#3](https://github.com/qxduddes/release_changelog/issues/3)) ([c062717](https://github.com/qxduddes/release_changelog/commit/c0627170581baac5586b620be8ba83502e672dab))
+
+
+
 # [1.2.0](https://github.com/qxduddes/release_changelog/compare/v1.1.0...v1.2.0) (2022-05-12)
 
 
