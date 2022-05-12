@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/qxduddes/release_changelog/compare/v1.4.0...v2.0.0) (2022-05-12)
+
+
+* feat!: remove 13th commit ([310a31a](https://github.com/qxduddes/release_changelog/commit/310a31a294c9e6014eb2c756b9d5026368eeb4fc))
+
+
+### BREAKING CHANGES
+
+* remove 13th commit line
+
+
+
 # [1.4.0](https://github.com/qxduddes/release_changelog/compare/v1.3.0...v1.4.0) (2022-05-12)
 
 
@@ -38,15 +50,6 @@
 ### Bug Fixes
 
 * **readme:** 5th commit ([#3](https://github.com/qxduddes/release_changelog/issues/3)) ([c062717](https://github.com/qxduddes/release_changelog/commit/c0627170581baac5586b620be8ba83502e672dab))
-
-
-
-# [1.2.0](https://github.com/qxduddes/release_changelog/compare/v1.1.0...v1.2.0) (2022-05-12)
-
-
-### Features
-
-* second commit ([3ef7512](https://github.com/qxduddes/release_changelog/commit/3ef751262b6fdf0256470e751ee7aa8b9d55e485))
 
 
 
