@@ -1,3 +1,13 @@
+## [3.1.1](https://github.com/qxduddes/release_changelog/compare/v3.1.0...v3.1.1) (2022-05-12)
+
+
+### Reverts
+
+* add 21th commit ([07af137](https://github.com/qxduddes/release_changelog/commit/07af137fbc04b8c25ca89b051986f4108c04f302))
+* add 22th commit ([d269903](https://github.com/qxduddes/release_changelog/commit/d269903f86816bfc5b4b4c8f99958f26e887684e))
+
+
+
 # [3.1.0](https://github.com/qxduddes/release_changelog/compare/v3.0.0...v3.1.0) (2022-05-12)
 
 
@@ -49,20 +59,6 @@
 ### Features
 
 * add 12th commit ([8d75f45](https://github.com/qxduddes/release_changelog/commit/8d75f45630e9f11f7aed7c2c384b022e7133cc22))
-
-
-
-# [1.3.0](https://github.com/qxduddes/release_changelog/compare/v1.2.2...v1.3.0) (2022-05-12)
-
-
-### Bug Fixes
-
-* 9th commit ([34c030a](https://github.com/qxduddes/release_changelog/commit/34c030a0c1ba9a9015622908504515484c389034))
-
-
-### Features
-
-* 10th commit ([a943340](https://github.com/qxduddes/release_changelog/commit/a94334007776fe21520248abdb5579c61545c4bc))
 
 
 
