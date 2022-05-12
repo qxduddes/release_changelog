@@ -1,3 +1,17 @@
+# [1.3.0](https://github.com/qxduddes/release_changelog/compare/v1.2.2...v1.3.0) (2022-05-12)
+
+
+### Bug Fixes
+
+* 9th commit ([34c030a](https://github.com/qxduddes/release_changelog/commit/34c030a0c1ba9a9015622908504515484c389034))
+
+
+### Features
+
+* 10th commit ([a943340](https://github.com/qxduddes/release_changelog/commit/a94334007776fe21520248abdb5579c61545c4bc))
+
+
+
 ## [1.2.2](https://github.com/qxduddes/release_changelog/compare/v1.2.1...v1.2.2) (2022-05-12)
 
 
