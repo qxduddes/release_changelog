@@ -11,3 +11,8 @@ feat: add user information update
 ```
 fix: remove extra semi-colon
 ```
+
+### Conventional Commits
+```
+<type>: <space><short description>
+```
