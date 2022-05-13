@@ -1,24 +1,13 @@
-# release_changelog
+### Generate Release and Change log
 
-#first commit
-#second commit
-#3rd commit
-#4th commit
-#5th commit
-#6th commit
-#7th commit
-#8th commit 
-#9th commit
-#10 commit
-#11 commit
-#12 commit
-#13 commit
-#14 commit
-#15 commit
-#16 commit
-#17 commit
-#18 commit
-#19 commit
-#20 commit
-#21 commit
-#22 commits
+## Features
+- Example to commit messages for features
+```
+feat: add user information update
+```
+
+## Bug Fixes
+- Example to commit messages for bug fixes, hotfixes
+```
+fix: remove extra semi-colon
+```
