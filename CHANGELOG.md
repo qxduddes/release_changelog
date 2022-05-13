@@ -1,3 +1,14 @@
+## [3.1.3](https://github.com/qxduddes/release_changelog/compare/v3.1.2...v3.1.3) (2022-05-13)
+
+
+### Bug Fixes
+
+* add commit types ([98ed61d](https://github.com/qxduddes/release_changelog/commit/98ed61dedb1fb5f5d9890b4634595473d5311030))
+* add conventional commits title ([c942669](https://github.com/qxduddes/release_changelog/commit/c9426690345976d43b35b9cfc332fdbd346a6beb))
+* add github workflows in .gitignore ([645d56d](https://github.com/qxduddes/release_changelog/commit/645d56d2ff9746404be0273c1045695f7144af32))
+
+
+
 ## [3.1.2](https://github.com/qxduddes/release_changelog/compare/v3.1.1...v3.1.2) (2022-05-13)
 
 
@@ -47,18 +58,6 @@
 ### BREAKING CHANGES
 
 * add 13th commit line
-
-
-
-# [2.0.0](https://github.com/qxduddes/release_changelog/compare/v1.4.0...v2.0.0) (2022-05-12)
-
-
-* feat!: remove 13th commit ([310a31a](https://github.com/qxduddes/release_changelog/commit/310a31a294c9e6014eb2c756b9d5026368eeb4fc))
-
-
-### BREAKING CHANGES
-
-* remove 13th commit line
 
 
 
