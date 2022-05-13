@@ -2,18 +2,24 @@
 
 ### Conventional Commits
 ```
-<type>: <space><short description>
+<type>(scope(optional)): <space><short description>
+<body>
+<footer>
 ```
 ## Features
 - Example to commit messages for features
 ```
 git commit -m 'feat: add user information update'
+or
+git commit -m 'feat(QXDIP-4321): add user information update'
 ```
 
 ## Bug Fixes
 - Example to commit messages for bug fixes, hotfixes
 ```
-fix: remove extra semi-colon
+git commit -m 'fix: remove extra semi-colon'
+or
+git commit -m 'fix(QXDIP-12345): remove extra semi-colon'
 ```
 
 ### Other Commit Types
