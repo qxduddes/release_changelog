@@ -3,11 +3,11 @@
 ## Features
 - Example to commit messages for features
 ```
-feat: add user information update
+git commit -m 'feat: add user information update'
 ```
 
 ## Bug Fixes
 - Example to commit messages for bug fixes, hotfixes
 ```
-fix: remove extra semi-colon
+git commit -m 'fix: remove extra semi-colon'
 ```
