@@ -7,7 +7,7 @@
 ## Features
 - Example to commit messages for features
 ```
-feat: add user information update
+git commit -m 'feat: add user information update'
 ```
 
 ## Bug Fixes
