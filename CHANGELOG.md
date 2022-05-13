@@ -1,3 +1,12 @@
+## [3.1.2](https://github.com/qxduddes/release_changelog/compare/v3.1.1...v3.1.2) (2022-05-13)
+
+
+### Bug Fixes
+
+* **readme:** add conventional commits syntax  ([#20](https://github.com/qxduddes/release_changelog/issues/20)) ([7192b3c](https://github.com/qxduddes/release_changelog/commit/7192b3c9e8800eb2d1ddf3dd2fc798e1df2c9d5e))
+
+
+
 ## [3.1.1](https://github.com/qxduddes/release_changelog/compare/v3.1.0...v3.1.1) (2022-05-12)
 
 
@@ -50,15 +59,6 @@
 ### BREAKING CHANGES
 
 * remove 13th commit line
-
-
-
-# [1.4.0](https://github.com/qxduddes/release_changelog/compare/v1.3.0...v1.4.0) (2022-05-12)
-
-
-### Features
-
-* add 12th commit ([8d75f45](https://github.com/qxduddes/release_changelog/commit/8d75f45630e9f11f7aed7c2c384b022e7133cc22))
 
 
 
