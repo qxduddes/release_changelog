@@ -16,7 +16,6 @@ jobs:
         uses: TriPSs/conventional-changelog-action@v3
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          config-file-path: './.github/changelog.config.js'
           output-file: "./CHANGELOG.md"
           release-count: 0
 
