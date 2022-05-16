@@ -1,3 +1,7 @@
+## Change Log
+All notable changes to this project will be documented in this file
+
+
 ## [3.1.11](https://github.com/qxduddes/release_changelog/compare/v3.1.10...v3.1.11) (2022-05-16)
 
 
