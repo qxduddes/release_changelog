@@ -1,8 +1,0 @@
-{
-  "types": [
-        { type: 'feat', section: 'Features' },
-        { type: 'fix', section: 'Fixes' },
-        { type: 'refactor', section: 'Improvement' },
-        { type: 'docs', section: 'Documentation' }
-    ]
-}
