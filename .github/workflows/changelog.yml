@@ -15,7 +15,7 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           release-count: 0
           tag-prefix: 'v'
-          config-file-path: './changelog.config.json'
+          config-file-path: '../changelog.config.json'
       - name: Create Release
         uses: actions/create-release@v1
         if: ${{ steps.changelog.outputs.skipped == 'false' }}
