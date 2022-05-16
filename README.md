@@ -6,7 +6,7 @@
 [body (optional)]
 [footer (optional)]
 ```
-## Features
+## Features/Minor Changes ✨
 - Example to commit messages for features
 ```
 git commit -m 'feat: add user information update'
@@ -16,7 +16,7 @@ or
 git commit -m 'feat(User): add user information update'
 ```
 
-## Bug Fixes
+## Bug Fixes/Patches 🐛
 - Example to commit messages for bug fixes, hotfixes
 ```
 git commit -m 'fix: remove extra semi-colon'
