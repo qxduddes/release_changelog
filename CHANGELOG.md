@@ -1,3 +1,12 @@
+# [3.3.0](https://github.com/qxduddes/release_changelog/compare/v3.2.0...v3.3.0) (2022-05-16)
+
+
+### Features
+
+* changes in workflow ([#27](https://github.com/qxduddes/release_changelog/issues/27)) ([9b31c13](https://github.com/qxduddes/release_changelog/commit/9b31c131c59627848d073ab9206c632e7d48a1e6))
+
+
+
 # [3.2.0](https://github.com/qxduddes/release_changelog/compare/v3.1.11...v3.2.0) (2022-05-16)
 
 
