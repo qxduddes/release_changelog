@@ -26,7 +26,7 @@ or
 git commit -m 'fix(User): remove extra semi-colon'
 ```
 
-### Other Commit Types
+### Other Commit Types (Angular)
 - feat: The new feature you're adding to a particular application
 - fix: Related to all bug fixes
 - style: Feature and updates related to styling
@@ -36,3 +36,4 @@ git commit -m 'fix(User): remove extra semi-colon'
 - chore: Regular code maintenance. 
 
 ### Notes
+- 
