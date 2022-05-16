@@ -1,5 +1,10 @@
-## Change Log
-All notable changes to this project will be documented in this file.
+# [3.2.0](https://github.com/qxduddes/release_changelog/compare/v3.1.11...v3.2.0) (2022-05-16)
+
+
+### Features
+
+* add change log title ([#26](https://github.com/qxduddes/release_changelog/issues/26)) ([ac497fb](https://github.com/qxduddes/release_changelog/commit/ac497fb0d27550c0d83b7e826db36827974142de))
+
 
 
 ## [3.1.11](https://github.com/qxduddes/release_changelog/compare/v3.1.10...v3.1.11) (2022-05-16)
