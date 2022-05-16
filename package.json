@@ -1,6 +1,6 @@
 {
   "name": "release_changelog",
-  "version": "3.1.6",
+  "version": "3.1.7",
   "description": "#first commit #second commit",
   "main": "index.js",
   "scripts": {

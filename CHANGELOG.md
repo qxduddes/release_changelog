@@ -1,3 +1,12 @@
+## [3.1.7](https://github.com/qxduddes/release_changelog/compare/v3.1.6...v3.1.7) (2022-05-16)
+
+
+### Bug Fixes
+
+* commit types ([3b54cff](https://github.com/qxduddes/release_changelog/commit/3b54cff976d99d0faba52cf7b025c9374bd37497))
+
+
+
 ## [3.1.6](https://github.com/qxduddes/release_changelog/compare/v3.1.5...v3.1.6) (2022-05-16)
 
 
