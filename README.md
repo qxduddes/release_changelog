@@ -34,3 +34,5 @@ git commit -m 'fix(User): remove extra semi-colon'
 - test: Everything related to testing
 - docs: Everything related to documentation
 - chore: Regular code maintenance. 
+
+### Notes
