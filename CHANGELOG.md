@@ -1,3 +1,12 @@
+## [3.1.10](https://github.com/qxduddes/release_changelog/compare/v3.1.9...v3.1.10) (2022-05-16)
+
+
+### Bug Fixes
+
+* add notes ([05ec279](https://github.com/qxduddes/release_changelog/commit/05ec27922db5dc26c29721d5011e968f61cba25a))
+
+
+
 ## [3.1.9](https://github.com/qxduddes/release_changelog/compare/v3.1.8...v3.1.9) (2022-05-16)
 
 
