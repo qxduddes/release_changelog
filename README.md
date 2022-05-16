@@ -3,7 +3,7 @@
 ### Conventional Commits
 ```
 <type>(scope(optional)): <space>[short description]
-[body]
+[body (optional)]
 [footer]
 ```
 ## Features
