@@ -1,3 +1,12 @@
+## [3.1.6](https://github.com/qxduddes/release_changelog/compare/v3.1.5...v3.1.6) (2022-05-16)
+
+
+### Bug Fixes
+
+* retun json data ([af3f0fb](https://github.com/qxduddes/release_changelog/commit/af3f0fbd1f74fc5faf73cdba36c72e11e8d45881))
+
+
+
 ## [3.1.5](https://github.com/qxduddes/release_changelog/compare/v3.1.4...v3.1.5) (2022-05-13)
 
 
