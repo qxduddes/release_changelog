@@ -24,7 +24,7 @@ git commit -m 'fix(QXDIP-12345): remove extra semi-colon'
 
 ### Other Commit Types
 - feat: The new feature you're adding to a particular application
-- fix: A bug fix
+- fix: A bug fixes
 - style: Feature and updates related to styling
 - refactor: Refactoring a specific section of the codebase
 - test: Everything related to testing
