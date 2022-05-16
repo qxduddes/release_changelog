@@ -1,3 +1,22 @@
+## [3.1.8](https://github.com/qxduddes/release_changelog/compare/v3.1.7...v3.1.8) (2022-05-16)
+
+
+### Bug Fixes
+
+* change actions/create-release version to v1 ([107023b](https://github.com/qxduddes/release_changelog/commit/107023b7321eaf1c2fc302d4305d1cf07b45f228))
+* output not found ([e097f58](https://github.com/qxduddes/release_changelog/commit/e097f5853ba264d74959c3a284956b60f7e878d4))
+* readme ([ac61a04](https://github.com/qxduddes/release_changelog/commit/ac61a043a7ecc8911d7de67d591b9bb3aa100666))
+* rollback workflow ([185d4bc](https://github.com/qxduddes/release_changelog/commit/185d4bc436e0d3e18f6133980da300fd74fdb005))
+* update commit tags ([c60ba72](https://github.com/qxduddes/release_changelog/commit/c60ba720c1db757650462ac6786094e6f341ab43))
+* workflow ([06b6efc](https://github.com/qxduddes/release_changelog/commit/06b6efcdde4b3fef895b485c4ea498ffa05a0df8))
+* workflow github token ([00c3b03](https://github.com/qxduddes/release_changelog/commit/00c3b03ece58673a92dedd8c62677a84fdb70d93))
+* workflow not creating release ([faaec2c](https://github.com/qxduddes/release_changelog/commit/faaec2c30e17a37a6bfb7b96a0d241b0175be1c9))
+* workflow not running ([9872beb](https://github.com/qxduddes/release_changelog/commit/9872beb0d6d6e47ce19bbdea064af93507013f90))
+* workflow package version ([4ae654f](https://github.com/qxduddes/release_changelog/commit/4ae654f3a4941a2232f519b222d623abfd004281))
+* workflow push event ([4870314](https://github.com/qxduddes/release_changelog/commit/4870314631a987ad300a342cbf8b9ab790d42a70))
+
+
+
 ## [3.1.7](https://github.com/qxduddes/release_changelog/compare/v3.1.6...v3.1.7) (2022-05-16)
 
 
