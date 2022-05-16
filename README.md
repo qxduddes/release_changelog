@@ -4,7 +4,7 @@
 ```
 <type>(scope(optional)): <space>[short description]
 [body (optional)]
-[footer]
+[footer (optional)]
 ```
 ## Features
 - Example to commit messages for features
