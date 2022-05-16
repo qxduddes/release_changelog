@@ -1,3 +1,12 @@
+## [3.1.11](https://github.com/qxduddes/release_changelog/compare/v3.1.10...v3.1.11) (2022-05-16)
+
+
+### Bug Fixes
+
+* add github emoji in readme ([91bb56f](https://github.com/qxduddes/release_changelog/commit/91bb56f981bc5e8877c886e4d3ddf713d648a048))
+
+
+
 ## [3.1.10](https://github.com/qxduddes/release_changelog/compare/v3.1.9...v3.1.10) (2022-05-16)
 
 
