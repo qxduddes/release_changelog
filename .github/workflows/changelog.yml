@@ -15,7 +15,7 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           release-count: 0
           tag-prefix: 'v'
-          skip-commit: 'true'
+          skip-commit: 'false'
       - name: Create Release
         uses: actions/create-release@v1
         if: ${{ steps.changelog.outputs.skipped == 'false' }}
