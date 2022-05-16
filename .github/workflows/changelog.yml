@@ -22,4 +22,5 @@ jobs:
         with:
           tag_name: ${{ steps.changelog.outputs.tag }}
           release_name: ${{ steps.changelog.outputs.tag }}
-          body: ${{ steps.changelog.outputs.clean_changelog }}
+          body: |
+          # Change Log #### All notable changes to this project will be documented in this file. ${{ steps.changelog.outputs.clean_changelog }}
