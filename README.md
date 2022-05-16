@@ -2,9 +2,9 @@
 
 ### Conventional Commits
 ```
-<type>(scope(optional)): <space><short description>
-<body>
-<footer>
+<type>(scope(optional)): <space>[short description]
+[body]
+[footer]
 ```
 ## Features
 - Example to commit messages for features
