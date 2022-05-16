@@ -1,4 +1,4 @@
-### Generate Release and Change log
+### Generate Release and Change logs
 
 ### Conventional Commits
 ```
