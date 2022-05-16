@@ -44,5 +44,4 @@ BREAKING CHANGE: upgraded version
 - chore: Regular code maintenance. 
 
 ### Notes
--
 
