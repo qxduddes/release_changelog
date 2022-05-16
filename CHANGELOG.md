@@ -1,3 +1,12 @@
+## [3.1.9](https://github.com/qxduddes/release_changelog/compare/v3.1.8...v3.1.9) (2022-05-16)
+
+
+### Bug Fixes
+
+* readme file ([3cef45b](https://github.com/qxduddes/release_changelog/commit/3cef45bd213639c8014a7db45fe4ea5a62450bc5))
+
+
+
 ## [3.1.8](https://github.com/qxduddes/release_changelog/compare/v3.1.7...v3.1.8) (2022-05-16)
 
 
