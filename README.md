@@ -31,7 +31,7 @@ git commit -m 'fix(User): remove extra semi-colon'
 ```
 git commit -m'feat(major changes): latest updates
 
-BREAKING CHANGE: upgraded version
+BREAKING CHANGE: upgraded version'
 ```
 
 ### Other Commit Types (Angular)
