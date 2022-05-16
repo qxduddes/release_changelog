@@ -1,4 +1,4 @@
-### Generate Release and Change log
+### Generate Release and Change logs
 
 ### Conventional Commits
 ```
@@ -26,6 +26,14 @@ or
 git commit -m 'fix(User): remove extra semi-colon'
 ```
 
+## Breaking Changes/Major Changes
+- Example of major changes, breaking changes
+```
+git commit -m'feat(major changes): latest updates
+
+BREAKING CHANGE: upgraded version
+```
+
 ### Other Commit Types (Angular)
 - feat: The new feature you're adding to a particular application
 - fix: Related to all bug fixes
@@ -36,5 +44,4 @@ git commit -m 'fix(User): remove extra semi-colon'
 - chore: Regular code maintenance. 
 
 ### Notes
-- notes goes here
-- and here
+
