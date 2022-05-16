@@ -10,12 +10,12 @@ jobs:
     steps:
       - name: Conventional Changelog Action
         id: changelog
-        uses: TriPSs/conventional-changelog-action@v3.11.0
+        uses: TriPSs/conventional-changelog-action@v3
         with:
           github-token: ${{ secrets.github_token }}
 
       - name: Create Release
-        uses: actions/create-release@v1.1.4
+        uses: actions/create-release@v1
         if: ${{ steps.changelog.outputs.skipped == 'false' }}
         env:
           GITHUB_TOKEN: ${{ secrets.github_token }}
