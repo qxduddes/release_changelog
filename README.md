@@ -9,21 +9,21 @@
 ## Features/Minor Changes ✨
 - Example to commit messages for features
 ```
-git commit -m 'feat: add user information update'
+git commit -m 'feat: user authentication with aws cognito userpool'
 or
-git commit -m 'feat(QXDIP-4321): add user information update'
+git commit -m 'feat(QXDIP-4321): user authentication with aws cognito userpool'
 or
-git commit -m 'feat(User): add user information update'
+git commit -m 'feat(User): user authentication with aws cognito userpool'
 ```
 
 ## Bug Fixes/Patches 🐛
 - Example to commit messages for bug fixes, hotfixes
 ```
-git commit -m 'fix: remove extra semi-colon'
+git commit -m 'fix: item weights does not does update weights field'
 or
-git commit -m 'fix(QXDIP-12345): remove extra semi-colon'
+git commit -m 'fix(QXDIP-12345): item weights does not does update weights field'
 or
-git commit -m 'fix(User): remove extra semi-colon'
+git commit -m 'fix(Item-Weights): item weights does not does update weights field'
 ```
 
 ## Breaking Changes/Major Changes
@@ -43,6 +43,8 @@ BREAKING CHANGE: upgraded version'
 - **docs:** Everything related to documentation
 - **chore:** Regular code maintenance. 
 
+### Notes
+=======
 ### The seven rules of a great Git commit message
 - Separate subject from body with a blank line
 - Limit the subject line to 50 characters
@@ -51,4 +53,5 @@ BREAKING CHANGE: upgraded version'
 - Use the imperative mood in the subject line
 - Wrap the body at 72 characters
 - Use the body to explain what and why vs. how
+
 
