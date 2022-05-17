@@ -9,11 +9,11 @@
 ## Features/Minor Changes ✨
 - Example to commit messages for features
 ```
-git commit -m 'feat: add user information update'
+git commit -m 'feat: user authentication with aws cognito userpool'
 or
-git commit -m 'feat(QXDIP-4321): add user information update'
+git commit -m 'feat(QXDIP-4321): user authentication with aws cognito userpool'
 or
-git commit -m 'feat(User): add user information update'
+git commit -m 'feat(User): user authentication with aws cognito userpool'
 ```
 
 ## Bug Fixes/Patches 🐛
