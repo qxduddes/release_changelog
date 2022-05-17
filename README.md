@@ -35,13 +35,13 @@ BREAKING CHANGE: upgraded version'
 ```
 
 ### Other Commit Types (Angular)
-- feat: The new feature you're adding to a particular application
-- fix: Related to all bug fixes
-- style: Feature and updates related to styling
-- refactor: Refactoring a specific section of the codebase
-- test: Everything related to testing
-- docs: Everything related to documentation
-- chore: Regular code maintenance. 
+- **feat:** The new feature you're adding to a particular application
+- **fix:** Related to all bug fixes
+- **style:** Feature and updates related to styling
+- **refactor:** Refactoring a specific section of the codebase
+- **test:** Everything related to testing
+- **docs:** Everything related to documentation
+- **chore:** Regular code maintenance. 
 
 ### The seven rules of a great Git commit message
 - Separate subject from body with a blank line
