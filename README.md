@@ -43,5 +43,3 @@ BREAKING CHANGE: upgraded version
 - docs: Everything related to documentation
 - chore: Regular code maintenance. 
 
-### Notes
-
