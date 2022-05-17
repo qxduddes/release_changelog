@@ -49,5 +49,5 @@ BREAKING CHANGE: upgraded version'
 - Do not end the subject line with a period
 - Use the imperative mood in the subject line
 - Wrap the body at 72 characters
-- Use the body to explain what and why vs. how
+- Use the commit body to explain what and why vs. how
 
