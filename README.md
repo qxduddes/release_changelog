@@ -43,8 +43,7 @@ BREAKING CHANGE: upgraded version'
 - **docs:** Everything related to documentation
 - **chore:** Regular code maintenance. 
 
-### Notes
-=======
+
 ### The seven rules of a great Git commit message
 - Separate subject from body with a blank line
 - Limit the subject line to 50 characters
@@ -53,5 +52,4 @@ BREAKING CHANGE: upgraded version'
 - Use the imperative mood in the subject line
 - Wrap the body at 72 characters
 - Use the body to explain what and why vs. how
-
 
