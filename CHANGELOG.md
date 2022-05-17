@@ -1,3 +1,12 @@
+# [3.5.0](https://github.com/qxduddes/release_changelog/compare/v3.4.0...v3.5.0) (2022-05-17)
+
+
+### Features
+
+* **readme:** add 7 rules of great git commit message ([737064b](https://github.com/qxduddes/release_changelog/commit/737064b543f3e82a4027354fe0295affa9a0f85e))
+
+
+
 # [3.4.0](https://github.com/qxduddes/release_changelog/compare/v3.3.1...v3.4.0) (2022-05-16)
 
 
