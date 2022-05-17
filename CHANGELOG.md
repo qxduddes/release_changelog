@@ -1,3 +1,12 @@
+## [3.5.1](https://github.com/qxduddes/release_changelog/compare/v3.5.0...v3.5.1) (2022-05-17)
+
+
+### Bug Fixes
+
+* **readme:** improve readme ([#31](https://github.com/qxduddes/release_changelog/issues/31)) ([4885d9a](https://github.com/qxduddes/release_changelog/commit/4885d9ae7e80bfd8e58d9b851583a7daaedb9d6c))
+
+
+
 # [3.5.0](https://github.com/qxduddes/release_changelog/compare/v3.4.0...v3.5.0) (2022-05-17)
 
 
