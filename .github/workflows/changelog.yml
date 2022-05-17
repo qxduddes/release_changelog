@@ -16,8 +16,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           release-count: 0
-          skip-commit: 'true'
-          fallback-version: '3.5.2'
+          fallback-version: '3.5.3'
           
       - name: Create Release
         uses: actions/create-release@v1
