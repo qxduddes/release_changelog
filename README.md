@@ -1,5 +1,3 @@
-### Generate Release and Change logs
-
 ### Conventional Commits
 ```
 <type>(scope(optional)): <space>[short description]
