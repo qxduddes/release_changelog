@@ -3,8 +3,7 @@ on:
   push:
     branches:
       - main
-permissions:
-  pull-requests: write
+
 jobs:     
   changelog:
     runs-on: ubuntu-latest
@@ -15,7 +14,6 @@ jobs:
         uses: TriPSs/conventional-changelog-action@v3
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          git-user-email: 'qxduddes@github.com'
           release-count: 0
           
       - name: Create Release
