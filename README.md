@@ -19,11 +19,11 @@ git commit -m 'feat(User): user authentication with aws cognito userpool'
 ## Bug Fixes/Patches 🐛
 - Example to commit messages for bug fixes, hotfixes
 ```
-git commit -m 'fix: remove extra semi-colon'
+git commit -m 'fix: item weights does not does update weights field'
 or
-git commit -m 'fix(QXDIP-12345): remove extra semi-colon'
+git commit -m 'fix(QXDIP-12345): item weights does not does update weights field'
 or
-git commit -m 'fix(User): remove extra semi-colon'
+git commit -m 'fix(Item-Weights): item weights does not does update weights field'
 ```
 
 ## Breaking Changes/Major Changes
