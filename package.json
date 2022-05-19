@@ -4,7 +4,8 @@
   "description": "#first commit #second commit",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/qxduddes/release_changelog/issues"
   },
-  "homepage": "https://github.com/qxduddes/release_changelog#readme"
+  "homepage": "https://github.com/qxduddes/release_changelog#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^17.0.0",
+    "@commitlint/config-conventional": "^17.0.0",
+    "husky": "^8.0.1"
+  }
 }
