@@ -1,5 +1,5 @@
 module.exports = {
-    parsePreset: 'conventional-changelog-conventionalcommits',
+    parserPreset: 'conventional-changelog-conventionalcommits',
     rules: {
         'body-leading-blank': [1, 'always'],
         'body-max-line-length': [2, 'always', 75],
