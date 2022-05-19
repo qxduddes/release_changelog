@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/qxduddes/release_changelog/issues"
   },
-  "homepage": "https://github.com/qxduddes/release_changelog#readme"
+  "homepage": "https://github.com/qxduddes/release_changelog#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^17.0.0",
+    "@commitlint/config-conventional": "^17.0.0",
+    "husky": "^8.0.1"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  }
 }
