@@ -41,5 +41,5 @@ BREAKING CHANGE: upgraded version'
 - **refactor:** Refactoring a specific section of the codebase
 - **test:** Everything related to testing
 - **docs:** Everything related to documentation
-- **chore:** Regular code maintenance. 
+- **chore:** Regular code maintenance
 
